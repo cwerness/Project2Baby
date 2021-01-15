@@ -1,0 +1,24 @@
+{
+  "name": "Project2Baby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint **/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwerness/Project2Baby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwerness/Project2Baby/issues"
+  },
+  "homepage": "https://github.com/cwerness/Project2Baby#readme",
+  "dependencies": {
+    "eslint": "^7.17.0"
+  }
+}
